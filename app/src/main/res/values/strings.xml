@@ -1,0 +1,7 @@
+<resources>
+    <string name="WinterRentals">WinterRentals</string>
+    <string name="button">Next</string>
+    <string name="winter_rentals">Winter Rentals!</string>
+    <string name="textview">Check this box for Snowboard</string>
+    <string name="check_this_box_for_snowboard_rental">Check This Box for Snowboard rental</string>
+</resources>
